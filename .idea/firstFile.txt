@@ -15,3 +15,8 @@ Country
 2. Germany
 3. Turkey
 
+Animal
+1. Dog
+2. Cat
+
+
