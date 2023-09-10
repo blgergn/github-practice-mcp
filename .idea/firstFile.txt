@@ -3,3 +3,8 @@ Color
 1. Red
 2. Blue
 3. White
+
+Cities
+
+1. London
+2. Berlin
