@@ -1,10 +1,14 @@
 Color
-
 1. Red
 2. Blue
 3. White
 
+Cities
+1. London
+2. Berlin
+
 Country
-1.England
-2.Germany
-3.Turkey
+1. England
+2. Germany
+3. Turkey
+
