@@ -15,7 +15,7 @@ Countries
 2. Italy
 3. Germany
 4. Turkey
-5.  Iraq
+5. Iraq
 
 Animal
 1. Dog
